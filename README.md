@@ -10,7 +10,7 @@ Run: PCFC_PROCESS_MODEL.py
 
 Solves a coupled 1-D axial process model for a co-flow PCFC channel including:
   - species mass balances (H2, NH3, O2, H2O, N2) in fuel and air channels
-  - energy balances for PEN, interconnect, fuel gas, and air gas
+  - energy balances for PEN, interconnect, fuel channel, and air channel
   - Shomate-equation thermodynamic properties (Cp, H, S, G)
   - electrochemical kinetics (Butler-Volmer, Nernst, ohmic/conc./act. losses)
   - ammonia decomposition kinetics (Temkin–Pyzhev catalytic decompositions via Barat et al.)
