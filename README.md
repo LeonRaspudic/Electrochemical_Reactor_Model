@@ -27,14 +27,14 @@ The sweep loop iterates over average current density values defined in J_CELL_SW
 
 *****ASSUMPTIONS******
 
-  Adiabatic system (representative of interior stack cells)
-  Equipotential electrodes (no in-plane voltage gradients)
-  Steady state operation
-  PEN uniform across thickness; Interconnects lumped as single element
-  Multispecies diffusion simplified through Fickian formulation
-  Laminar, fully-developed flow (no cross-section gradients)
-  No pressure losses across the cell
-  Radiation heat transfer between PEN and interconnect considered negligible
+    Adiabatic system (representative of interior stack cells)
+    Equipotential electrodes (no in-plane voltage gradients)
+    Steady state operation
+    PEN uniform across thickness; Interconnects lumped as single element
+    Multispecies diffusion simplified through Fickian formulation
+    Laminar, fully-developed flow (no cross-section gradients)
+    No pressure losses across the cell
+    Radiation heat transfer between PEN and interconnect considered negligible
 
 
   PEN ENERGY BALANCE: 
