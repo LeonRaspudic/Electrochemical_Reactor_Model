@@ -1,11 +1,10 @@
 # Electrochemical_Reactor_Model
 
 
-
-PCFC (Protonic Ceramic Fuel Cell) multiphysics model.
-
 Dependencies: numpy, scipy, matplotlib, pandas
-Run: python code_PCFC.py
+
+Run: PCFC_PROCESS_MODEL.py
+
 
 *******OVERVIEW******
 
